@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo01/Demo01.iml" filepath="$PROJECT_DIR$/Demo01/Demo01.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/atguigu_interview_three.iml" filepath="$PROJECT_DIR$/.idea/atguigu_interview_three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_redis01/boot_redis01.iml" filepath="$PROJECT_DIR$/boot_redis01/boot_redis01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_redis02/boot_redis02.iml" filepath="$PROJECT_DIR$/boot_redis02/boot_redis02.iml" />
     </modules>
   </component>
 </project>
